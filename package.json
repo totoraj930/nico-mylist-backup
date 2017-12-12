@@ -1,0 +1,16 @@
+{
+  "name": "nico-mylist-backup",
+  "version": "1.0.0",
+  "description": "ニコ動のマイリストをバックアップするやつ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reona Oshima (totoraj)",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "puppeteer": "^0.13.0",
+    "sanitize-filename": "^1.6.1"
+  }
+}
